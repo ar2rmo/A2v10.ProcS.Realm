@@ -1,0 +1,8 @@
+[submodule "A2v10.ProcS"]
+	path = A2v10.ProcS
+	url = git@github.com:ar2rmo/A2v10.ProcS.git
+	branch = master
+[submodule "A2v10.ProcS.Chatbot"]
+	path = A2v10.ProcS.Chatbot
+	url = git@github.com:ar2rmo/A2v10.ProcS.Chatbot.git
+	branch = master
