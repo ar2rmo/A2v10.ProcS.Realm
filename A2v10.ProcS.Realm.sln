@@ -21,6 +21,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A2v10.ProcS.Infrastructure"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A2v10.ProcS.Plugin", "A2v10.ProcS\A2v10.ProcS.Plugin\A2v10.ProcS.Plugin.csproj", "{A050E837-95F8-4293-85AF-4B114BAD8E48}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A2v10.ProcS.Chatbot.Tests", "A2v10.ProcS.Chatbot\A2v10.ProcS.Chatbot.Tests\A2v10.ProcS.Chatbot.Tests.csproj", "{31C3A1FB-D9A8-41F9-990D-C5DA371865F6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{A050E837-95F8-4293-85AF-4B114BAD8E48}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A050E837-95F8-4293-85AF-4B114BAD8E48}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A050E837-95F8-4293-85AF-4B114BAD8E48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31C3A1FB-D9A8-41F9-990D-C5DA371865F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31C3A1FB-D9A8-41F9-990D-C5DA371865F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31C3A1FB-D9A8-41F9-990D-C5DA371865F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31C3A1FB-D9A8-41F9-990D-C5DA371865F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -63,6 +69,7 @@ Global
 		{6BF4AD97-FC18-40F4-9FF4-9FAE2A00805E} = {37215C65-BE06-4242-A5A8-8232859BFE7C}
 		{2106B9FF-3F9A-4721-8873-F68C63DA5E5E} = {0D81879B-52E1-4093-B783-21479A4BE203}
 		{A050E837-95F8-4293-85AF-4B114BAD8E48} = {0D81879B-52E1-4093-B783-21479A4BE203}
+		{31C3A1FB-D9A8-41F9-990D-C5DA371865F6} = {55D1D43E-4E04-4479-8CF9-B03A24AA2172}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {47153EF7-A825-434D-8A49-B3B08CE937D2}
