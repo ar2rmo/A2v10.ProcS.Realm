@@ -6,7 +6,3 @@
 	path = A2v10.ProcS.Chatbot
 	url = git@github.com:ar2rmo/A2v10.ProcS.Chatbot.git
 	branch = master
-[submodule "A2v10.Data.NetStandard"]
-	path = A2v10.Data.NetStandard
-	url = git@github.com:alex-kukhtin/A2v10.Data.NetStandard.git
-	branch = master
